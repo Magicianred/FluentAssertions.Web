@@ -107,29 +107,29 @@ HTTP/1.1 200 OK*
 Content-Type: application/json; charset=utf-8*
 Content-Length:*
 {*
-    ""glossary"": {*
-        ""title"": ""example glossary"",*
-        ""GlossDiv"": {*
-            ""title"": ""S"",*
-            ""GlossList"": {*
-                ""GlossEntry"": {*
-                    ""ID"": ""SGML"",*
-                    ""SortAs"": ""SGML"",*
-                    ""GlossTerm"": ""Standard Generalized Markup Language"",*
-                    ""Acronym"": ""SGML"",*
-                    ""Abbrev"": ""ISO 8879:1986"",*
-                    ""GlossDef"": {*
-                        ""para"": ""A meta-markup language, used to create markup languages such as DocBook."",*
-                        ""GlossSeeAlso"": [*
-                            ""GML"",*
-                            ""XML""*
-                        ]*
-                    },*
-                    ""GlossSee"": ""markup""*
-                }*
-            }*
+  ""glossary"": {*
+    ""title"": ""example glossary"",*
+    ""GlossDiv"": {*
+      ""title"": ""S"",*
+      ""GlossList"": {*
+        ""GlossEntry"": {*
+          ""ID"": ""SGML"",*
+          ""SortAs"": ""SGML"",*
+          ""GlossTerm"": ""Standard Generalized Markup Language"",*
+          ""Acronym"": ""SGML"",*
+          ""Abbrev"": ""ISO 8879:1986"",*
+          ""GlossDef"": {*
+            ""para"": ""A meta-markup language, used to create markup languages such as DocBook."",*
+            ""GlossSeeAlso"": [*
+              ""GML"",*
+              ""XML""*
+            ]*
+          },*
+          ""GlossSee"": ""markup""*
         }*
+      }*
     }*
+  }*
 }*
 The originated HTTP request was <null>.*");
         }
@@ -156,29 +156,29 @@ HTTP/1.1 200 OK*
 Content-Type: application/json; charset=utf-8*
 Content-Length:*
 {*
-    ""glossary"": {*
-        ""title"": ""example glossary"",*
-        ""GlossDiv"": {*
-            ""title"": ""S"",*
-            ""GlossList"": {*
-                ""GlossEntry"": {*
-                    ""ID"": ""SGML"",*
-                    ""SortAs"": ""SGML"",*
-                    ""GlossTerm"": ""Standard Generalized Markup Language"",*
-                    ""Acronym"": ""SGML"",*
-                    ""Abbrev"": ""ISO 8879:1986"",*
-                    ""GlossDef"": {*
-                        ""para"": ""A meta-markup language, used to create markup languages such as DocBook."",*
-                        ""GlossSeeAlso"": [*
-                            ""GML"",*
-                            ""XML""*
-                        ]*
-                    },*
-                    ""GlossSee"": ""markup""*
-                }*
-            }*
+  ""glossary"": {*
+    ""title"": ""example glossary"",*
+    ""GlossDiv"": {*
+      ""title"": ""S"",*
+      ""GlossList"": {*
+        ""GlossEntry"": {*
+          ""ID"": ""SGML"",*
+          ""SortAs"": ""SGML"",*
+          ""GlossTerm"": ""Standard Generalized Markup Language"",*
+          ""Acronym"": ""SGML"",*
+          ""Abbrev"": ""ISO 8879:1986"",*
+          ""GlossDef"": {*
+            ""para"": ""A meta-markup language, used to create markup languages such as DocBook."",*
+            ""GlossSeeAlso"": [*
+              ""GML"",*
+              ""XML""*
+            ]*
+          },*
+          ""GlossSee"": ""markup""*
         }*
+      }*
     }*
+  }*
 }*
 The originated HTTP request was <null>.*");
         }
